@@ -8,11 +8,11 @@ The goal of this project is to give you just a "taste" of SwiftUI to familiarize
 
 Your assignment is to complete the following [SwiftUI Essentials tutorials](https://developer.apple.com/tutorials/swiftui/tutorials)
 
-1) Creating and Combining Views
-2) Building Lists and Navigation
-3) Handling User Input
+1) [Creating and Combining Views](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views) 
+2) [Building Lists and Navigation](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation) 
+3) [Handling User Input](https://developer.apple.com/tutorials/swiftui/handling-user-input)
 
-You will download the starter project files directly from the SwiftUI Tutorials website. Each tutorial has its own starter project. In this repo there are three folders representing each tutorial. You can save your project files into those folders following the typical git work flow. 
+These tutorials guide you through building Landmarks — an iOS app for discovering and sharing the places you love. You will download the starter project files directly from the SwiftUI Tutorials website. Each tutorial has its own starter project. In this repo there are three folders representing each tutorial. You can save your project files into those folders following the typical git work flow. 
 
 As Swift is updated, these tutorials become out of date. Below is guidance for directions that have changed from what is shown on the tutorial website.
 
