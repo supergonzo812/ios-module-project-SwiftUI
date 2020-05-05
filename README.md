@@ -16,5 +16,8 @@ These tutorials guide you through building Landmarks — an iOS app for discover
 
 As Swift is updated, these tutorials become out of date. Below is guidance for directions that have changed from what is shown on the tutorial website.
 
+(all known differences as of 5/5/20)
 
+* When clicking on elements in the preview with the [cmd] key, the menu item is now called “Show SwiftUI Inspector…” rather than “Inspect”.
 
+* In the Handling User Input tutorial, Section 5, steps 1-6, the tutorial makes it seem like the previews will work the entire time, but in fact, the app gets into an error state after step 1, and doesn’t build cleanly again until after step 6. Just keep moving and it will eventually work.
